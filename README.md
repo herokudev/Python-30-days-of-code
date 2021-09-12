@@ -1,65 +1,33 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Python 30 days of code
 
-> One paragraph statement about the project.
+> Based on PYPL INDEX "PopularitY of Programming Language", Python is the most popular programming language by September 2021.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Python is a very popular programming language today and often needs an introduction. It is widely used in various business sectors, such as programming, web development, machine learning, and data science.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Python
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Every full-stack developer should have skills for the front-end design, but to have dynamic apps you need the functionality that brings a back-end language like Python. To get started go to [Python.org](https://www.python.org/)
 
 
-To get a local copy up and running follow these simple example steps.
+## Authors (Github: Herokudev)
+Herbert Orellana
 
-### Prerequisites
+- GitHub: [@herokudev](https://github.com/herokudev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/armando-orellana-a0b50b34)
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -67,9 +35,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- The description of each challenge is part of the 30 days of code at [Hackerrank.com](https://www.hackerrank.com//)
+
 
 ## 📝 License
 
